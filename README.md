@@ -10,11 +10,11 @@
 
 **' Projetos em Python '**
 
-## -automações de Organização de arquivos 
+## -automações de Organização de arquivos ??
 codigos que podem ser programados para serem executados em um horário especifico
 e organizam arquivos em suas devidas pasta (matriculas, firmas, RI)
 
-## -Projeto consulta rapida 
+## -Projeto consulta rapida ??
 Consiste em um programa que possui uma interface grafica, e nela um campo de digitação, neste campo é digitado
 o CPF/CNPJ que o cartório quer checar, e automaticamente ele abre 3 sites que geralmente o cartório ultiliza (receita federal, Certidoes, e o gov) e cola no campo de digitação desses 3 sites ao mesmo tempo. Desta forma o usuario otimiza o processo de checagem do CPF/CNPJ para constars se há irregularidades. 
 
