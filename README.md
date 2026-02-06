@@ -8,7 +8,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-**' Projetos em Python '**
+**' Projetos em Pythoooon '**
 
 ## -automações de Organização de arquivos📁
 codigos que podem ser programados para serem executados em um horário especifico
