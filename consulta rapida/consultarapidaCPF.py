@@ -94,9 +94,9 @@ options.add_argument("--ignore-certificate-errors")  # Ignora erros de SSL
 driver = webdriver.Edge(service=service, options=options)
 
 # Abre os três sites em diferentes guias
-driver.get("https://solucoes.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir")
-driver.execute_script("window.open('https://certidoes.trf5.jus.br/certidoes2022/paginas/acompanhamentoCertidao.faces', '_blank');")
-driver.execute_script("window.open('https://servicos2.speedgov.com.br/itapipoca/pages/certidao_contribuinte', '_blank');")
+driver.get("https://")
+driver.execute_script("window.open('https://');")    #
+driver.execute_script("window.open('https://');")
 
 # Troca para a primeira aba e insere o CPF/CNPJ no primeiro site
 driver.switch_to.window(driver.window_handles[0])
